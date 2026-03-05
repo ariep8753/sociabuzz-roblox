@@ -1,0 +1,10 @@
+{
+  "name": "sociabuzz-roblox",
+  "version": "1.0.0",
+  "description": "SociaBuzz to Roblox webhook bridge",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  }
+}
